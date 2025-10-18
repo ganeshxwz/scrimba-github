@@ -1,45 +1,47 @@
-@import url('https://fonts.cdnfonts.com/css/cursed-timer-ulil');
-
+@import url("https://fonts.cdnfonts.com/css/cursed-timer-ulil");
 
 body {
-    margin: 0;
-    background-color: #1B244A
+  margin: 0;
+  background-color: #1b244a;
 }
 
 .container {
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
 }
 
-h3{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-    color: #EEEEEE;
-    font-size: 30px;
-    margin-bottom: 1px;
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: #eeeeee;
+  font-size: 30px;
+  margin-bottom: 1px;
 }
 
 h2 {
-    font-size: 30px;
-    font-family: Cursed Timer ULiL , sans-serif;
-    color: red;
-    background-color: black;
-    font-size: 40px;
-    border-radius: 5px;
-    padding: 10px;
-    margin-top: 21px ;
-    margin-bottom: 26px;
+  font-size: 30px;
+  font-family: Cursed Timer ULiL, sans-serif;
+  color: red;
+  background-color: black;
+  font-size: 40px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 21px;
+  margin-bottom: 26px;
 }
- 
- button{
-    background: none;
-    color: #9AABD8;
-    border: 1px solid #9AABD8;
-    font-family: Cursed Timer ULiL , sans-serif;
-    padding: 7px 7px;
-    justify-content: space-between;
-    border-radius: 5px;
- }
+
+button {
+  background: none;
+  color: #9aabd8;
+  border: 1px solid #9aabd8;
+  font-family: Cursed Timer ULiL, sans-serif;
+  padding: 7px 7px;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+
+.reset {
+  margin: 0% 50% 0% 50%;
+}
